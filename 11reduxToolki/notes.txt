@@ -1,0 +1,7 @@
+here we have used redux toolkit bro 
+to use the global variable or state from the store and the slice 
+
+just see the refernce from the todo and addtodo
+usedispatch
+useSelector 
+use this method if need any global  state from the store 
